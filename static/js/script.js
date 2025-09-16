@@ -1,4 +1,3 @@
-// script.js - improved frontend logic with friendly results and path highlighting
 (function() {
   // DOM refs
   const fromEntry = document.getElementById('fromEntry');

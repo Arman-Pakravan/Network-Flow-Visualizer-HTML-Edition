@@ -1,4 +1,4 @@
-# network-flow-visualizer-HTML-edition
+# Network-Flow-Visualizer-HTML-Edition
 
 This project is a desktop application built using Python, HTML, Javascript, and CSS that implements the Maximum Flow algorithm through an interactive graphical user interface (GUI). It allows users to construct directed networks, define source and sink nodes, and visualize maximum flow computations in real time. The tool is built with HTML, Javascript, and CSS for the GUI and NetworkX for graph algorithms.  
 

@@ -4,6 +4,15 @@ This project is a desktop application built using Python, HTML, Javascript, and 
 
 ---
 
+## User Interface
+
+<img width="1865" height="1236" alt="image" src="https://github.com/user-attachments/assets/8f9f6fd7-7f01-45f6-a015-28262151f6c0" />
+
+
+<img width="2155" height="1268" alt="image" src="https://github.com/user-attachments/assets/dc11c775-1309-4d64-a95b-ca392ca43bef" />
+
+---
+
 ## What is Maximum Flow?
 
 In graph theory, the **maximum flow problem** seeks the greatest possible rate at which material (such as data, water, or traffic) can move from a starting point (source) to an endpoint (sink) in a network, without exceeding the capacity of the connections (edges).  

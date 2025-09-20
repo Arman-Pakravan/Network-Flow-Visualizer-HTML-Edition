@@ -41,12 +41,6 @@ By visualizing flow, engineers and researchers can gain insight into how resourc
 
 ---
 
-## User Interface
-
-<img width="1857" height="1364" alt="image" src="https://github.com/user-attachments/assets/d7d6954a-6bf6-487a-a416-f6e86773db45" />
-
----
-
 ## How It Works
 
 1. The user specifies:

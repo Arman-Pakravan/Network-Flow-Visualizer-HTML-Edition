@@ -8,11 +8,7 @@ This project is a desktop application built using Python, HTML, Javascript, and 
 
 <img width="1865" height="1236" alt="image" src="https://github.com/user-attachments/assets/8f9f6fd7-7f01-45f6-a015-28262151f6c0" />
 
-
-
-
-
-
+This is what the app looks like when running:
 
 <img width="2155" height="1268" alt="image" src="https://github.com/user-attachments/assets/dc11c775-1309-4d64-a95b-ca392ca43bef" />
 
